@@ -1,2 +1,2 @@
 # Omnivorous
-omnivorous.github.io
+http://omnivorous.github.io
