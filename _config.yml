@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Omnivorous: Adventures in Biomedical Data Science
+title:               Omnivorous | Adventures in Biomedical Data Science
 tagline:             
 url:                 http://omnivorous.gitub.io
 paginate:            1
