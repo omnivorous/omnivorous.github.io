@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/erichhuang
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://omnivorous.github.io
+  * I am erichhuang (https://keybase.io/erichhuang) on keybase.
+  * I have a public key with fingerprint D43A 57E3 41FB 13A7 6D21  E5C0 DC51 BFDD F44A 5C88
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010116af9a21b9899277b9db648544b52523afba137d3e3b26e72218d46ddde796920a",
+            "fingerprint": "d43a57e341fb13a76d21e5c0dc51bfddf44a5c88",
+            "host": "keybase.io",
+            "key_id": "dc51bfddf44a5c88",
+            "kid": "010116af9a21b9899277b9db648544b52523afba137d3e3b26e72218d46ddde796920a",
+            "uid": "44d117a93d82effd7f73090b2827ee00",
+            "username": "erichhuang"
+        },
+        "service": {
+            "hostname": "omnivorous.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1443558954,
+    "expire_in": 157680000,
+    "prev": "f5e9ff540c263716b4ec4f4f5565d8f558fb7ceec3cb13059f65544bbeaa3d30",
+    "seqno": 24,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMIyAnicrZJbSBVBGMeP3SwhC7oQXagWQizR3dmZvZzIbhgUlVhiddSOMzuz52zq
+7ml3j2Vmmdk9pB7qxTpgL9GD4kN0A9HEh0K6GgVlFFKQD1mQRRe6zFq99di8fMzH
+///7LjO9k8eGMtIGirqej6wrO5rWd/NCMlSS8WlxnUAcWiuE64RKNhpYFWWeH620
+qBAWREmUJAWbOgYS0TVdB6pKdEoUqCEICQIIyNgkWJJVKjOZAIWpAEgahQqllKm6
+ogMRCzmCadkx5iZcy/Y5lkIZI5XJUDKJJGNVoUBiyBCpgSRiUmpCiJGhadwYd7zA
+wZsj2GO5lsNz/BIdbe8f+v/cd3IUByGVJBXrMtUAM02qmqos6iIBGlAZE8VA6DHX
+xtWMq5lrGfF4EtsxoT5H4Pkay2DBaoNZ/micatuqcVwn6eXGLD+eJL8nS7iO7xhO
+FVfEfT/hhQOCX5sILLsYif6BRYllU75R7qhhrmc5thCWuNLwrYAuQSgjpOkI5ghs
+d8JyWdQKFEhVNJGfoA6r4UgTMd00ERQNoMiqpBDIDGhCEyEFUY0HzSSqwZghG/yd
+RKSbCgr2RxjGMpWDuT2203aEMOClfBzjTM+K2dhPukyo7+kuGxdKywhNGD8m+Gqh
+jElT/37A2Q/Sf0bAFS21XZ5y7u29rgKn4mv5wfU9978saT6flRp5NT11YuW6rVNP
+5EWGd21676jl7rvU8mhbYeGKq/nFq9sWTsvsGrp44NC1s0ONjdPzrhdn3lg20N05
+h+yLGkeOb1gz2NYwf3l7/ZNT+y4POM125PWPlzO1no0Vtzt6v5GhjrubV3UOHk4v
++Trr++eKjmOPC59lv5zXe0evoPaW4hndZz5I6HlL3uymcEHu4KVvcu6LTXvP6Q09
+Ax+1/JNP+5e+edyfnV29oHR40Z79renJplTt6cpZcyMf6448nNhf9Dnr4aORvHxr
++OmOqrUry/P7Sq/camhtiZSHwLEXxS0lj0DRttO4/fUv0UFKXw==
+=1/+U
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/erichhuang
+
+==================================================================
