@@ -4,8 +4,7 @@ published: true
 
 
 ## Microservices & Medicine
-`Data Science is an interdisciplinary field about processes and systems to extract knowledge or insights from large volumes of data in various forms, either structured or unstructured` 
--[Wikipedia](https://en.wikipedia.org/wiki/Data_science)
+`Data Science is an interdisciplinary field about processes and systems to extract knowledge or insights from large volumes of data in various forms, either structured or unstructured (Wikipedia)` 
 
 Medicine is the ultimate data science. When you're sitting across a patient in an exam room, you are summarizing structured data (e.g. laboratory tests) and unstructured data (e.g. clinic notes, journal articles) into a decision that (hopefully) represents the best interpretation of all those data according to the needs of your patient. 
 
